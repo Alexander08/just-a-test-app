@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.principal",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "elearningapp",
+    "packageName": "com.principal",
+    "packageFolder": "com/principal",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDViNTliMTgxMjk4OWRlZmM4YTc2YTA1ZGVhMzlkYTZlNWMzMWE0OTE3MTA1NDM0Y2I4MjBmNDNhZjFlYzgyMTk1OGI3MjU1NWYxODIyMTk1ODQ0NTFhNDQ4ZWNiZGNmMDZkOGE0NGNmZmE2ZGIyZDdjOWVmZjQ2NDdhZGYxNmU=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "ro"
+    ]
+  }
+}
